@@ -30,7 +30,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
  Essa é uma página elegante e moderna de destino para cabeleireiros ou barbearias. Projetada com foco na apresentação visual atraente e facilidade de navegação, a Landing Page Dev Barbearia oferece uma presença online profissional para salões de beleza.
 
-- [Acesse o projeto finalizado, online](https://lucas-slv.github.io/dev-barbershop/)
+- [Acesse o projeto finalizado, online](https://dev-barbershop.vercel.app/)
 
 ## 🔖 Layout
 
