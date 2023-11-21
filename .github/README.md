@@ -30,6 +30,16 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
  Essa é uma página elegante e moderna de destino para cabeleireiros ou barbearias. Projetada com foco na apresentação visual atraente e facilidade de navegação, a Landing Page Dev Barbearia oferece uma presença online profissional para salões de beleza.
 
+ Recursos Principais:
+
+- Design Responsivo: A página é totalmente responsiva, garantindo uma experiência de usuário consistente em dispositivos móveis, tablets e desktops.
+
+- Galeria de Serviços: Destaque os serviços oferecidos pelo salão com uma galeria visualmente atraente. Cada serviço é acompanhado por uma breve descrição.
+
+- Informações de Contato: Forneça informações de contato claras, incluindo endereço, número de telefone e formulário de contato.
+
+- Seção de Promoções e Ofertas: Destaque ofertas especiais, descontos sazonais ou pacotes promocionais para incentivar as conversões.
+
 - <a href="https://dev-barbershop.vercel.app/" target="_blank">Acesse o projeto finalizado online</a>
 
 ## 🔖 Layout
